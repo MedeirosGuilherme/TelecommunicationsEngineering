@@ -1,7 +1,18 @@
-# Telecommunications Engineering
+# Repositório da disciplina de Sistemas Distribuídos do curso de Engenharia de Telecomunicações do IFSC de São José
 
-In this repository you'll find most of my activity done under graduation. I graduated in Telecommunications Engineering in 2022, by the Federal Institute of Technology of Santa Catarina.
+A disciplina estuda o projeto teórico e prático de sistemas distribuídos.
 
-The repository is segmented by the classes, each one has its own branch. You also can get access going through the following links:
+## Referências
+
+* TANENBAUM, Andrew S.; STEEN, Maarten van - Sistemas Distribuídos: Princípios e Paradigmas
+https://www.distributed-systems.net/index.php/books/ds3/  
+
+* COLOURIS, George; KINDBERG, Tim; DOLLIMORE, Jean - Sistemas Distribuídos: Conceitos e Projeto
+https://app.minhabiblioteca.com.br/books/9788582600542
+
+# Conteúdo da disciplina | Estudar 
+
+* RAID
+  * RAID1, RAID2, RAID5, RAID0, RAID10, RAID15
 
 

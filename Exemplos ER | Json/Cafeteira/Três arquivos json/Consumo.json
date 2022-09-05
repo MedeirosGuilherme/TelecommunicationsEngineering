@@ -1,0 +1,19 @@
+{
+    "Consumo" : [
+        {
+            "id_consumo" : 1,
+            "id_usuario" : 1,
+            "id_cafe"    : 1,
+            "data" : "2022-03-31.13:22"
+        },
+
+        {
+            "id_consumo" : 2,
+            "id_usuario" : 2,
+            "id_cafe"    : 1,
+            "data" : "2022-03-31.13:23"
+        }
+
+    ]
+
+}
